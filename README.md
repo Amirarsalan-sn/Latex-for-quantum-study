@@ -1,2 +1,8 @@
 # Latex-for-quantum-study
-Latex resource for a study on Quantum Machine Learning
+
+This Repository includes resouces for latex code of an study about Quantum Machine Learning and its Applications.
+
+
+## Study Reference
+
+1. Sanati, Amir. (2024). Concise Insights into Quantum Machine Learning and Its Practical Uses. 10.13140/RG.2.2.14216.64002. 
