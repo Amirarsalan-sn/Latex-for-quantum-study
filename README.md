@@ -1,6 +1,6 @@
 # Latex-for-quantum-study
 
-This Repository includes resouces for latex code of an study about Quantum Machine Learning and its Applications.
+This Repository contains resouces for latex code of an study about Quantum Machine Learning and its Applications.
 
 
 ## Study Reference
